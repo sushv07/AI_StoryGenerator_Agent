@@ -26,7 +26,7 @@ All processes are automated in a single pipeline — from input to final output 
 
 ### Visual Workflow Diagram:
 
-![AI Story Generator n8n Workflow] 
+[AI Story Generator n8n Workflow] 
 <img width="2272" height="774" alt="Screenshot 2025-07-17 at 8 55 06 PM" src="https://github.com/user-attachments/assets/aa23d1d4-7b9d-4f04-993a-48d0debc1c75" />
 
 
