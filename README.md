@@ -1,6 +1,6 @@
 # 🎨 AI Story Generator Agent
 
-An automated AI-powered storytelling workflow that brings stories to life through text, images, video, and narration — fully automated from start to finish.
+An automated AI-powered storytelling workflow that brings stories to life through text, images, video, and narration - fully automated from start to finish.
 
 ## 🎯 What It Does
 
