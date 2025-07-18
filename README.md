@@ -20,7 +20,8 @@ All processes are automated in a single pipeline — from input to final output 
 👉 [Watch the demo here](https://youtu.be/GJ0A__pERvA)  
 **Best experienced with headphones 🎧. The audio begins in the final 38 seconds.**
 
-<img width="2348" height="1406" alt="Screenshot 2025-07-17 at 8 59 26 PM" src="https://github.com/user-attachments/assets/7df42fcc-a311-4a7f-ba13-38d0fb11dc40" />
+<img width="1172" height="696" alt="image" src="https://github.com/user-attachments/assets/d53dee7b-64f3-40a6-8094-0a7bac3b1c69" />
+
 
 
 ---
